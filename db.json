@@ -1,0 +1,88 @@
+{
+  "users" : [
+    {
+      "id": 1,
+      "nama": "Fandi Aziz",
+      "alamat": "Tawangmangu",
+      "umur": 20,
+      "nohp": "089"
+    },
+    {
+      "id": 2,
+      "nama": "фанди",
+      "alamat": "Russia",
+      "umur": 20,
+      "nohp": "089"
+    },
+    {
+      "id": 3,
+      "nama": "Fandy Azyz",
+      "alamat": "New york",
+      "umur": 20,
+      "nohp": "089"
+    },
+    {
+      "id": 4,
+      "nama": "Fankchi",
+      "alamat": "Chine",
+      "umur": 20,
+      "nohp": "089"
+    },
+    {
+      "id": 5,
+      "nama": "Fandy Azyz",
+      "alamat": "New york",
+      "umur": 20,
+      "nohp": "089"
+    },
+    {
+      "id": 6,
+      "nama": "Boyka",
+      "alamat": "Chine",
+      "umur": 20,
+      "nohp": "089"
+    },
+    {
+      "id": 7,
+      "nama": "Fandy Azyz",
+      "alamat": "New york",
+      "umur": 20,
+      "nohp": "089"
+    },
+    {
+      "id": 8,
+      "nama": "Fankchi",
+      "alamat": "Chine",
+      "umur": 20,
+      "nohp": "089"
+    },
+    {
+      "id": 9,
+      "nama": "Fandy Azyz",
+      "alamat": "New york",
+      "umur": 20,
+      "nohp": "089"
+    },
+    {
+      "id": 10,
+      "nama": "Fankchi",
+      "alamat": "Chine",
+      "umur": 20,
+      "nohp": "089"
+    },
+    {
+      "id": 11,
+      "nama": "Fandy Azyz",
+      "alamat": "New york",
+      "umur": 20,
+      "nohp": "089"
+    },
+    {
+      "id": 12,
+      "nama": "Fankchi",
+      "alamat": "Chine",
+      "umur": 20,
+      "nohp": "089"
+    }
+  ]
+}
